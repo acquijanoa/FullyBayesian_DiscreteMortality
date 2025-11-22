@@ -1,12 +1,12 @@
 # Fully Bayesian Smoothing Spatio-Temporal Model for estimating Child Mortality in Colombia
 
-## Project: LHS0005
+### Project: LHS0005
 
-## Lead:
+### Lead:
 
 
-## Scripts
+### Scripts
 
-### LHS000501: Derive analytical file for the Bayesian model
+#### LHS000501: Derive analytical file for the Bayesian model
 
 
